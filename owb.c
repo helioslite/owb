@@ -37,6 +37,7 @@
 #include "freertos/task.h"
 #include "esp_log.h"
 #include "sdkconfig.h"
+#include "rom/gpio.h"
 #include "driver/gpio.h"
 
 #include "owb.h"
