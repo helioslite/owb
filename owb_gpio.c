@@ -38,6 +38,7 @@
 #include "esp_log.h"
 #include "sdkconfig.h"
 #include "rom/gpio.h"
+#include "rom/ets_sys.h"
 #include "driver/gpio.h"
 
 #include "owb.h"
